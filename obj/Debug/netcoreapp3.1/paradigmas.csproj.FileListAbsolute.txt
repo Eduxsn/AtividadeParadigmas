@@ -1,0 +1,24 @@
+/Users/steffanydev/projects/paradigmas/bin/Debug/netcoreapp3.1/paradigmas.deps.json
+/Users/steffanydev/projects/paradigmas/bin/Debug/netcoreapp3.1/paradigmas.runtimeconfig.json
+/Users/steffanydev/projects/paradigmas/bin/Debug/netcoreapp3.1/paradigmas.runtimeconfig.dev.json
+/Users/steffanydev/projects/paradigmas/bin/Debug/netcoreapp3.1/paradigmas.dll
+/Users/steffanydev/projects/paradigmas/bin/Debug/netcoreapp3.1/paradigmas.pdb
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.csprojAssemblyReference.cache
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.AssemblyInfoInputs.cache
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.AssemblyInfo.cs
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.csproj.CoreCompileInputs.cache
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.dll
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.pdb
+/Users/steffanydev/projects/paradigmas/obj/Debug/netcoreapp3.1/paradigmas.genruntimeconfig.cache
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/bin/Debug/netcoreapp3.1/paradigmas.deps.json
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/bin/Debug/netcoreapp3.1/paradigmas.runtimeconfig.json
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/bin/Debug/netcoreapp3.1/paradigmas.runtimeconfig.dev.json
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/bin/Debug/netcoreapp3.1/paradigmas.dll
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/bin/Debug/netcoreapp3.1/paradigmas.pdb
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.csprojAssemblyReference.cache
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.AssemblyInfoInputs.cache
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.AssemblyInfo.cs
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.csproj.CoreCompileInputs.cache
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.dll
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.pdb
+/Users/edux/Faculdade/2 Semestre/Paradigmas de Programação/Atividade Herança/obj/Debug/netcoreapp3.1/paradigmas.genruntimeconfig.cache
